@@ -46,7 +46,7 @@ public class Retangulo extends FiguraGeometrica
 
     @Override
     public String getType() {
-        return "Corinthains";
+        return "Retangulo";
     }
 }
 

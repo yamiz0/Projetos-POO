@@ -17,7 +17,7 @@ public class Main
         CD c = new CD("Corinthians", 2000f, 2012);
 
         // instanciando um DVD
-        DVD d = new DVD("Paulista", 2015f, 1999);
+        DVD d = new DVD("Paulista", 2015f, 2000);
 
         // imprimindo os dados
         System.out.println("---Livro---");

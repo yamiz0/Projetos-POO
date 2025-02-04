@@ -1,0 +1,13 @@
+Prog. Orientada a Objetos#Márcio Peres#4
+123#Rodrigo Garro#16
+46584#Yuri Alberto#28
+9879#Hugo Neneca#18
+46846#Gabi Portilho#19
+Filosofia 2#Adão#3
+1235#Thiago#20
+9485#João Rodrigo#25
+171#Ian#85
+Banco de Dados#Osshiro#3
+555#Matheus Bidu#25
+88#Matheuzinho#24
+564#Pedro Tchoca#21

@@ -18,7 +18,7 @@ public class Main {
         f.adicionarEstudante(new Estudante("222", "Romarinho", (short)35));
         disciplina.add(f);
 
-        scanDisciplina("src//Mundial 2000.txt", disciplina);
+        writerDisciplina("src//Mundial 2000.txt", disciplina);
 
         // imprimindo os dados
         for (Disciplina d: disciplina){
@@ -62,7 +62,7 @@ public class Main {
         }
     }
 
-    public static void scanDisciplina(String fileName, ArrayList<Disciplina> disciplinas){
+    public static void writerDisciplina(String fileName, ArrayList<Disciplina> disciplinas){
         PrintWriter pw = null;
 
         try {
